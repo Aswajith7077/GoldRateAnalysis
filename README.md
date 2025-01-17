@@ -1,5 +1,3 @@
-Here is a detailed README file for your R code:
-
 ---
 
 # Gold Rate Prediction Model
